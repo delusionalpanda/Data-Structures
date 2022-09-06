@@ -2,4 +2,4 @@
 
 > I will be uploading my notes here related to Merge Sort Algorithm.
 
-- What is [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+- What is a [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)?
