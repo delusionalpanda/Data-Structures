@@ -2,4 +2,4 @@
 
 > I will be uploading my notes here related to insortion sort.
 
-- What is [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/?ref=gcse)
+- What is a [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/?ref=gcse)?
